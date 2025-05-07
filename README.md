@@ -1,4 +1,4 @@
-# Olá, eu sou Felipe Ferreira!
+# Olá, eu sou Felipe!
 
 Desenvolvedor Java | Estudante de Ciência da Computação | Focado em Backend
 

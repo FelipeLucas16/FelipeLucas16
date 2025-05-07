@@ -24,7 +24,7 @@ Bem-vindo ao meu GitHub! Aqui você vai encontrar projetos pessoais, acadêmicos
 
 ## Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FelipeLucas16&show_icons=true&tbg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=00ffff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FelipeLucas16&show_icons=true&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=00ffff)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeLucas16&layout=compact&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=00ffff)
 
 ---

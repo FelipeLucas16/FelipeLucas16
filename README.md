@@ -8,7 +8,7 @@ Bem-vindo ao meu GitHub! Aqui você vai encontrar projetos pessoais, acadêmicos
 
 ## Sobre mim
 
-- Estudante de Ciência da Computação no 5° Semestre com interesse em desenvolvimento backend
+- Estudante de Ciência da Computação no 6° Semestre com interesse em desenvolvimento backend
 - Focado em Java com Spring Boot e desenvolvimento orientado a objetos
 - Gosto de aprender novas tecnologias e construir soluções úteis
 

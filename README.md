@@ -22,15 +22,11 @@ Bem-vindo ao meu GitHub! Aqui você vai encontrar projetos pessoais, acadêmicos
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FelipeLucas16&show_icons=true&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=00ffff&cache_seconds=86400)
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FelipeLucas16&show_icons=true&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=00ffff)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FelipeLucas16&layout=compact&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=00ffff)
-
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeLucas16&layout=compact&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=00ffff&cache_seconds=86400)
 
 ---
 
